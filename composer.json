@@ -1,0 +1,21 @@
+{
+    "name": "user/lara_auto",
+    "autoload": {
+        "psr-4": {
+            "User\\LaraAuto\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "zyt",
+            "email": "asdf.tw12345@gmail.com"
+        }
+    ],
+    "require": {},
+	"autoload": {
+        "psr-4": {
+			"Demo\\":"./src/Demo"
+        }
+    }
+	
+}
