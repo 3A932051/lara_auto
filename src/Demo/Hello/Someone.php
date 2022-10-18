@@ -7,3 +7,4 @@ class Someone
     {
         echo 'Hello '.$name.PHP_EOL;
     }
+}

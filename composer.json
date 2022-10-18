@@ -11,7 +11,9 @@
             "email": "asdf.tw12345@gmail.com"
         }
     ],
-    "require": {},
+    "require": {
+        "monolog/monolog": "^3.2"
+    },
 	"autoload": {
         "psr-4": {
 			"Demo\\":"./src/Demo"
