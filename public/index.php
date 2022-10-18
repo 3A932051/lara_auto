@@ -26,4 +26,5 @@ $log->pushHandler(new StreamHandler('../log/my.log', Level::Warning));
 // add records to the log
 $log->warning('Foo');
 $log->error('Bar');
+
 ?>
